@@ -1,6 +1,6 @@
 import csv
 
-input_file = 'Inflation_consumer_prices.csv'
+input_file = 'API_NY.GDP.PCAP.CD_DS2_en_csv_v2_5728786.csv'
 output_file = 'output_file.csv'
 
 with open(input_file, 'r') as file:
