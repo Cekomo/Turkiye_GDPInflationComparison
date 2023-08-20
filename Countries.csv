@@ -1,4 +1,4 @@
-Country,Country Code,Region,Population,Official Language,Government Type
+country,country_code,region,population,official_language,government_type
 Aruba,ABW,Latin America & Caribbean,106766,Dutch,Constitutional Monarchy
 Africa Eastern and Southern,,Sub-Saharan Africa,,,
 Afghanistan,AFG,South Asia,38041754,Pashto,Islamic Republic
