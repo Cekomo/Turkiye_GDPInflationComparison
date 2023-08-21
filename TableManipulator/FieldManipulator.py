@@ -1,6 +1,6 @@
 import csv
 
-input_file = 'GDP_per_capita_growth.csv'
+input_file = 'gdp_per_capita.csv'
 output_file = 'output_file.csv'
 
 with open(input_file, 'r') as file:

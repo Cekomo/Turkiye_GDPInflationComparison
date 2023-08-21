@@ -21,10 +21,9 @@ sql_query = f"""
     SELECT
         gdp.country_name,
         {year_columns}
-    FROM gdp_countries AS gdp
-    WHERE gdp.country_name IN ('Turkiye', 'World', 
-    'Middle East & North Africa', 'European Union')
-    ORDER BY gdp.country_code DESC;
+    FROM gdp_per_capita AS gdp
+    WHERE country_name IN ('Turkiye', 'European Union',
+      'Middle East & North Africa');
 """
 
 # Fetch data from the gdp_countries table
@@ -36,12 +35,13 @@ inf_query = f"""
     SELECT
         inf.country_name,
         {year_columns}
-    FROM inflation_gdp AS inf
-    WHERE inf.country_name IN ('Turkiye', 'World', 
-    'Middle East & North Africa', 'European Union')
-    ORDER BY inf.country_code DESC;
+    FROM gdp_per_capita_growth AS inf
+    WHERE country_name IN ('Turkiye', 'European Union',
+      'Middle East & North Africa');
 """
-
+# WHERE inf.country_name IN ('Turkiye', 'World', 
+#     'Middle East & North Africa', 'European Union')
+#     ORDER BY inf.country_code DESC;
 cur.execute(inf_query)
 inf_data = cur.fetchall()
 
@@ -70,22 +70,22 @@ fig, axes = plt.subplots(2, 1, figsize=(10, 12))
 
 # Plot GDP data in the first subplot
 for country, gdp in zip(gdp_countries, gdp_values):
-    axes[0].plot(years, gdp, marker='o', label=f"{country} GDP")
+    axes[0].plot(years, gdp, marker='o', label=f"{country} GDP Per Capita")
 
-axes[0].set_title("Yearly GDP Data")
+axes[0].set_title("Yearly GDP Per Capita Data")
 axes[0].set_xlabel("Year")
-axes[0].set_ylabel("GDP Value")
+axes[0].set_ylabel("GDP Per Capita Value")
 axes[0].set_yscale("log")
 axes[0].grid(True)
 axes[0].legend()
 
 # Plot inflation data in the second subplot
 for country, inf in zip(inf_countries, inf_values):
-    axes[1].plot(years, inf, marker='o', label=f"{country} Inflation")
+    axes[1].plot(years, inf, marker='o', label=f"{country} GDP PC Growth")
 
-axes[1].set_title("Yearly GDP Inflation Data")
+axes[1].set_title("Yearly GDP PC Growth Data")
 axes[1].set_xlabel("Year")
-axes[1].set_ylabel("GDP Inflation Value")
+axes[1].set_ylabel("GDP PC Growth Value")
 # axes[1].set_yscale("log")
 axes[1].grid(True)
 axes[1].legend()
