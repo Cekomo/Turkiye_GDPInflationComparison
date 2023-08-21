@@ -1,6 +1,6 @@
 import csv
 
-input_file = 'API_NY.GDP.PCAP.CD_DS2_en_csv_v2_5728786.csv'
+input_file = 'GDP_per_capita_growth.csv'
 output_file = 'output_file.csv'
 
 with open(input_file, 'r') as file:

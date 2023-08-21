@@ -36,7 +36,7 @@ inf_query = f"""
     SELECT
         inf.country_name,
         {year_columns}
-    FROM inflation AS inf
+    FROM inflation_gdp AS inf
     WHERE inf.country_name IN ('Turkiye', 'World', 
     'Middle East & North Africa', 'European Union')
     ORDER BY inf.country_code DESC;
@@ -83,10 +83,10 @@ axes[0].legend()
 for country, inf in zip(inf_countries, inf_values):
     axes[1].plot(years, inf, marker='o', label=f"{country} Inflation")
 
-axes[1].set_title("Yearly Inflation Data")
+axes[1].set_title("Yearly GDP Inflation Data")
 axes[1].set_xlabel("Year")
-axes[1].set_ylabel("Inflation Value")
-axes[1].set_yscale("log")
+axes[1].set_ylabel("GDP Inflation Value")
+# axes[1].set_yscale("log")
 axes[1].grid(True)
 axes[1].legend()
 
