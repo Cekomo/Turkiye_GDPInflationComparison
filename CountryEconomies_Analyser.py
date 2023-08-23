@@ -16,7 +16,7 @@ cur = conn.cursor()
 year_columns = ",\n".join([f"year_{year}" for year in range(1960, 2023)])
 
 # List of countries in your desired order
-countries = ['Japan', 'Germany', 'Greece']
+countries = ['Turkiye', 'Germany', 'Greece']
 
 # Create a dictionary to store country data
 country_data = {}
