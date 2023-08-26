@@ -1,0 +1,266 @@
+country_name,spoken_lang1,lang1_ratio,spoken_lang2,lang2_ratio,spoken_lang3,lang3_ratio
+"Aruba","Papiamento",69.0,"Dutch",8.0,"Spanish",12.0
+"Africa Eastern and Southern",,,,,,
+"Afghanistan","Dari",32.1,"Pashto",48.0,"Turkmen",1.9
+"Africa Western and Central",,,,,,
+"Angola","Portuguese",47.4,"Umbundu",3.3,"Kikongo",2.4
+"Albania","Albanian",100.0,,,,
+"Andorra","Catalan",100.0,,,,
+"Arab World","Arabic",100.0,,,,
+"United Arab Emirates","Arabic",76.0,"Persian",1.0,"Urdu",8.0
+"Argentina","Spanish",100.0,,,,
+"Armenia","Armenian",100.0,,,,
+"American Samoa","Samoan",90.6,"English",2.9,"Tongan",2.6
+"Antigua and Barbuda","English",100.0,,,,
+"Australia","English",76.8,"Mandarin",1.6,"Arabic",1.4
+"Austria","German",100.0,,,,
+"Azerbaijan","Azerbaijani",92.5,"Lezgian",2.0,"Russian",1.4
+"Burundi","Kirundi",29.7,"French",0.3,"English",0.2
+"Belgium","Dutch",60.0,"French",40.0,"German",0.9
+"Benin","Fon",24.4,"Yoruba",12.4,"French",45.8
+"Burkina Faso","Mossi",31.0,"Fulfulde",9.6,"French",19.1
+"Bangladesh","Bengali",98.8,"Chakma",0.2,"Rohingya",0.1
+"Bulgaria","Bulgarian",76.8,"Turkish",8.2,"Romani",3.7
+"Bahrain","Arabic",100.0,,,,
+"Bahamas","English",100.0,,,,
+"Bosnia and Herzegovina","Bosnian",53.9,"Serbian",31.4,"Croatian",14.6
+"Belarus","Russian",70.2,"Belarusian",23.4,"Polish",3.9
+"Belize","Spanish",56.3,"Creole",44.6,"English",62.9
+"Bermuda","English",100.0,,,,
+"China","Mandarin",71.4,"Yue",5.0,"Wu",8.9
+"Bolivia","Spanish",61.3,"Quechua",19.2,"Aymara",2.4
+"Brazil","Portuguese",100.0,,,,
+"Barbados","English",100.0,,,,
+"Brunei Darussalam","Malay",100.0,,,,
+"Bhutan","Dzongkha",35.0,"Tibetan",12.0,"Nepali",44.6
+"Botswana","Setswana",77.3,"Kalanga",7.7,"Seselwa",2.1
+"Central African Republic","Sango",97.0,"French",61.0,"Mandjia",1.8
+"Canada","English",76.3,"French",23.0,"Punjabi",0.9
+"Central Europe and the Baltics",,,,,,
+"Switzerland","German",63.7,"French",21.0,"Italian",7.8
+"Channel Islands",,,,,,
+"Chile","Spanish",100.0,,,,
+"Cote d'Ivoire","Akan",33.1,"Gur",3.2,"Kru",0.7
+"Cameroon","Fulfulde",14.8,"Ewondo",4.1,"Beti",5.2
+"Congo Dem. Rep.","French",51.5,"Lingala",47.7,"Kongo",2.4
+"Congo Rep.","French",60.0,"Lingala",46.3,"Kikongo",10.0
+"Colombia","Spanish",100.0,,,,
+"Comoros","Comorian",98.6,"French",1.4,"Arabic",0.3
+"Cabo Verde","Portuguese",100.0,,,,
+"Costa Rica","Spanish",100.0,,,,
+"Caribbean small states",,,,,,
+"Cuba","Spanish",100.0,,,,
+"Curacao","Papiamento",88.7,"Dutch",4.5,"Spanish",2.9
+"Cayman Islands","English",100.0,,,,
+"Cyprus","Greek",80.9,"Turkish",0.2,"English",0.6
+"Czechia","Czech",98.2,"Slovak",1.1,"Polish",0.5
+"Germany","German",100.0,,,,
+"Djibouti","Somali",43.0,"Afar",33.0,"Arabic",5.0
+"Dominica","English",100.0,,,,
+"Denmark","Danish",95.0,"English",86.2,"Greenlandic",87.5
+"Dominican Republic","Spanish",100.0,,,,
+"Algeria","Arabic",100.0,,,,
+"East Asia & Pacific (excluding high income)",,,,,,
+"Early-demographic dividend",,,,,,
+"East Asia & Pacific",,,,,,
+"Europe & Central Asia (excluding high income)",,,,,,
+"Mozambique","Emakhuwa",25.3,"Xichangana",8.7,"Elomwe",8.8
+"Europe & Central Asia",,,,,,
+"Ecuador","Spanish",93.2,"Quechua",4.1,"Shuar",1.7
+"Egypt Arab Rep.","Arabic",100.0,,,,
+"Euro area",,,,,,
+"Eritrea","Tigrigna",50.0,"Bilen",3.0,"Tigre",31.0
+"Spain","Spanish",100.0,,,,
+"Estonia","Estonian",67.3,"Russian",28.8,"Latvian",0.9
+"Ethiopia","Amharic",29.3,"Oromo",31.2,"Somali",6.2
+"European Union",,,,,,
+"Fragile and conflict affected situations",,,,,,
+"Finland","Finnish",89.3,"Swedish",5.2,"Russian",0.3
+"Fiji","Fijian",45.0,"Hindi",27.9,"English",32.8
+"France","French",100.0,,,,
+"Faroe Islands","Faroese",100.0,,,,
+"Micronesia Fed. Sts.","English",89.1,"Chuukese",49.2,"Pohnpeian",23.0
+"Gabon","Fang",33.0,"Myene",12.0,"Nzebi",10.0
+"United Kingdom","English",100.0,,,,
+"Georgia","Georgian",100.0,,,,
+"Ghana","Akan",49.3,"Mole-Dagbani",16.5,"Ewe",13.9
+"Gibraltar","English",100.0,,,,
+"Guinea","Fulfulde",33.0,"Malinke",7.2,"Kissi",6.3
+"Gambia","Mandinka",41.0,"Wolof",16.8,"Fulfulde",4.7
+"Guinea-Bissau","Crioulo",36.4,"Balanta",26.0,"Portuguese",11.7
+"Equatorial Guinea","Fang",86.0,"Bubi",3.3,"Spanish",0.5
+"Greece","Greek",100.0,,,,
+"Grenada","English",100.0,,,,
+"Greenland","Greenlandic",89.8,"Danish",12.5,"Inuktitut",1.0
+"Guatemala","Spanish",88.8,"K'iche",6.6,"Kaqchikel",4.1
+"Guam","Chamorro",37.1,"English",76.2,"Tagalog",14.2
+"Guyana","English",100.0,,,,
+"High income",,,,,,
+"Hong Kong SAR China","Cantonese",100.0,"English",46.0,"Mandarin",48.0
+"Honduras","Spanish",100.0,,,,
+"Heavily indebted poor countries (HIPC)",,,,,,
+"Croatia","Croatian",95.6,"Serbian",5.5,"Italian",0.5
+"Haiti","French",52.9,"Haitian Creole",100.0,,
+"Cambodia","Khmer",100.0,,,,
+"Kiribati","I-Kiribati",98.8,"English",0.0,"Gilbertese",100.0
+"Hungary","Hungarian",100.0,,,,
+"IBRD only",,,,,,
+"IDA & IBRD total",,,,,,
+"IDA total",,,,,,
+"IDA blend",,,,,,
+"Indonesia","Javanese",39.4,"Sundanese",15.6,"Malay",3.7
+"IDA only",,,,,,
+"Isle of Man","English",100.0,,,,
+"India","Hindi",41.0,"Bengali",8.1,"Telugu",7.2
+"Not classified",,,,,,
+"Ireland","English",100.0,,,,
+"Iran Islamic Rep.","Persian",53.0,"Azerbaijani",2.0,"Kurdish",10.0
+"Iraq","Arabic",100.0,,,,
+"Iceland","Icelandic",100.0,,,,
+"Israel","Hebrew",100.0,,,,
+"Italy","Italian",100.0,,,,
+"Jamaica","English",100.0,,,,
+"Jordan","Arabic",100.0,,,,
+"Japan","Japanese",100.0,,,,
+"Kazakhstan","Kazakh",64.4,"Russian",21.7,"Uzbek",2.8
+"Kenya","Kikuyu",20.9,"Luhya",14.0,"Luo",13.2
+"Kyrgyz Republic","Kyrgyz",71.4,"Russian",8.4,"Uzbek",14.3
+"St. Kitts and Nevis","English",100.0,,,,
+"Korea Rep.","Korean",100.0,,,,
+"Kuwait","Arabic",100.0,,,,
+"Latin America & Caribbean (excluding high income)",,,,,,
+"Lao PDR","Lao",53.2,"Khmu",2.8,"Hmong",2.5
+"Lebanon","Arabic",100.0,,,,
+"Liberia","Kpelle",19.4,"Bassa",7.3,"Gio",7.2
+"Libya","Arabic",100.0,,,,
+"St. Lucia","English",100.0,,,,
+"Latin America & Caribbean",,,,,,
+"Least developed countries: UN classification",,,,,,
+"Low income",,,,,,
+"Liechtenstein","German",100.0,,,,
+"Sri Lanka","Sinhala",74.9,"Tamil",18.0,"English",7.1
+"Lower middle income",,,,,,
+"Low & middle income",,,,,,
+"Lesotho","Sotho",99.7,"English",0.1,"Zulu",0.1
+"Late-demographic dividend",,,,,,
+"Lithuania","Lithuanian",84.2,"Russian",8.2,"Polish",5.4
+"Luxembourg","Luxembourgish",59.6,"Portuguese",15.7,"French",12.6
+"Latvia","Latvian",62.1,"Russian",26.9,"Lithuanian",1.4
+"Macao SAR China","Cantonese",83.3,"Portuguese",3.9,"Mandarin",0.4
+"St. Martin (French part)","French",100.0,,,,
+"Morocco","Arabic",100.0,,,,
+"Monaco","French",100.0,,,,
+"Moldova","Russian",14.5,"Romanian",87.5,"Gagauz",4.4
+"Mongolia","Khalkha",90.0,"Buryat",4.0,"Russian",1.5
+"Madagascar","Malagasy",98.0,"French",0.2,"English",0.1
+"Maldives","Dhivehi",100.0,,,,
+"Middle East & North Africa",,,,,,
+"Mexico","Spanish",100.0,,,,
+"Marshall Islands","Marshallese",98.2,"English",97.3,"Other Pacific Island languages",10.0
+"Middle income",,,,,,
+"North Macedonia","Macedonian",66.5,"Albanian",25.1,"Turkish",1.8
+"Mali","Bambara",32.9,"Fulfulde",8.5,"Soninke",8.2
+"Malta","Maltese",100.0,,,,
+"Myanmar","Burmese",66.2,"Shan",9.3,"Karen",7.1
+"Middle East & North Africa (excluding high income)",,,,,,
+"Montenegro","Montenegrin",37.5,"Serbian",42.9,"Bosnian",5.3
+"Northern Mariana Islands","Chamorro",44.9,"English",56.5,"Carolinian",3.9
+"Mauritania","Hassaniya",46.2,"Wolof",8.6,"Pulaar",6.5
+"Mauritius","Bhojpuri",30.2,"Creole",27.4,"French",4.3
+"Malawi","Chichewa",57.9,"Lomwe",10.8,"Yao",13.5
+"Malaysia","Malay",61.0,"Chinese",10.3,"Tamil",5.5
+"North America",,,,,,
+"Namibia","Oshiwambo",49.0,"Nama",11.0,"Afrikaans",9.2
+"New Caledonia","French",97.3,"Javanese",9.0,"Malay",9.0
+"Niger","Hausa",23.3,"Zarma",9.3,"Tuareg",8.5
+"Nigeria","Hausa",25.0,"Yoruba",17.0,"Igbo",15.0
+"Nicaragua","Spanish",100.0,,,,
+"Netherlands","Dutch",100.0,,,,
+"Norway","Norwegian",98.5,"Sami",0.0,"Urdu",0.4
+"Nepal","Nepali",44.6,"Maithili",11.7,"Bhojpuri",6.1
+"Nauru","Nauruan",93.5,"English",22.6,"Chinese",8.7
+"New Zealand","English",95.3,"Maori",4.4,"Samoan",1.2
+"OECD members",,,,,,
+"Oman","Arabic",100.0,,,,
+"Other small states",,,,,,
+"Pakistan","Punjabi",48.2,"Pashto",15.4,"Sindhi",14.1
+"Panama","Spanish",100.0,,,,
+"Peru","Spanish",84.1,"Quechua",16.2,"Aymara",2.5
+"Philippines","Tagalog",37.2,"Cebuano",30.1,"Ilocano",9.8
+"Palau","Palauan",88.8,"Filipino",8.8,"English",76.1
+"Papua New Guinea","Tok Pisin",48.0,"Hiri Motu",11.2,"English",2.2
+"Poland","Polish",97.8,"Silesian",4.4,"Kashubian",0.6
+"Pre-demographic dividend",,,,,,
+"Puerto Rico","Spanish",100.0,,,,
+"Korea Dem. People’s Rep.","Korean",100.0,,,,
+"Portugal","Portuguese",100.0,,,,
+"Paraguay","Guarani",40.2,"Spanish",56.9,"Portuguese",1.2
+"West Bank and Gaza","Arabic",100.0,,,,
+"Pacific island small states",,,,,,
+"Post-demographic dividend",,,,,,
+"French Polynesia","French",77.4,"Tahitian",60.1,"Chinese",1.3
+"Qatar","Arabic",100.0,,,,
+"Romania","Romanian",85.4,"Hungarian",6.3,"Romani",1.0
+"Russian Federation","Russian",81.0,"Tatar",3.0,"Bashkir",1.0
+"Rwanda","Kinyarwanda",96.3,"French",0.2,"English",0.2
+"South Asia",,,,,,
+"Saudi Arabia","Arabic",100.0,,,,
+"Sudan","Arabic",100.0,,,,
+"Senegal","Wolof",37.4,"Pulaar",25.7,"Serer",12.3
+"Singapore","English",32.9,"Mandarin",34.9,"Malay",10.7
+"Solomon Islands","Pidgin",28.0,"English",100.0,,
+"Sierra Leone","Mende",33.2,"Temne",31.4,"Krio",27.4
+"El Salvador","Spanish",100.0,,,,
+"San Marino","Italian",100.0,,,,
+"Somalia","Somali",100.0,,,,
+"Serbia","Serbian",88.1,"Hungarian",3.4,"Romani",2.1
+"Sub-Saharan Africa (excluding high income)",,,,,,
+"South Sudan","Dinka",33.2,"Nuer",12.6,"Arabic",6.8
+"Small states",,,,,,
+"Sao Tome and Principe","Portuguese",100.0,,,,
+"Suriname","Dutch",37.5,"Sranantongo",45.7,"Hindustani",21.7
+"Slovak Republic","Slovak",96.6,"Hungarian",9.4,"Romani",1.1
+"Slovenia","Slovenian",87.8,"Serbo-Croatian",5.3,"Italian",2.0
+"Sweden","Swedish",100.0,,,,
+"Eswatini","Swazi",95.2,"Zulu",1.5,"English",0.7
+"Sint Maarten (Dutch part)","Dutch",100.0,,,,
+"Seychelles","Seychellois Creole",95.0,"English",82.3,"French",25.0
+"Syrian Arab Republic","Arabic",100.0,,,,
+"Turks and Caicos Islands","English",100.0,,,,
+"Chad","Sara",27.7,"Arabic",12.3,"Gorane",7.6
+"East Asia & Pacific (IDA & IBRD countries)",,,,,,
+"Europe & Central Asia (IDA & IBRD countries)",,,,,,
+"Togo","Ewe",27.0,"Kabye",20.1,"Fulfulde",10.4
+"Thailand","Thai",100.0,,,,
+"Tajikistan","Tajik",84.0,"Russian",14.7,"Uzbek",0.5
+"Turkmenistan","Turkmen",76.8,"Russian",15.8,"Uzbek",2.0
+"Latin America & the Caribbean (IDA & IBRD countries)",,,,,,
+"Timor-Leste","Tetum",58.3,"Portuguese",30.6,"Mambai",3.3
+"Middle East & North Africa (IDA & IBRD countries)",,,,,,
+"Tonga","Tongan",98.7,"English",0.0,"Samoan",1.0
+"South Asia (IDA & IBRD)",,,,,,
+"Sub-Saharan Africa (IDA & IBRD countries)",,,,,,
+"Trinidad and Tobago","English",100.0,,,,
+"Tunisia","Arabic",100.0,,,,
+"Turkey","Turkish",100.0,,,,
+"Tuvalu","Tuvaluan",88.7,"English",89.6,"Kiribati",1.0
+"Tanzania","Swahili",41.0,"English",2.0,"Chaga",7.5
+"Uganda","Ganda",22.7,"Luganda",18.9,"Lango",6.5
+"Ukraine","Ukrainian",66.7,"Russian",15.4,"Romanian",2.2
+"Upper middle income",,,,,,
+"Uruguay","Spanish",100.0,,,,
+"United States","English",82.1,"Spanish",10.7,"Chinese",0.9
+"Uzbekistan","Uzbek",74.3,"Russian",14.2,"Tajik",4.4
+"St. Vincent and the Grenadines","English",100.0,,,,
+"Venezuela RB","Spanish",100.0,,,,
+"British Virgin Islands","English",100.0,,,,
+"Virgin Islands (U.S.)","English",100.0,,,,
+"Vietnam","Vietnamese",89.9,"Tay",1.8,"Kinh",85.7
+"Vanuatu","Bislama",98.3,"French",2.6,"English",0.6
+"World",,,,,,
+"Samoa","Samoan",90.6,"English",10.9,"Tongan",2.6
+"Kosovo","Albanian",93.0,"Serbian",3.0,"Bosnian",1.0
+"Yemen Rep.","Arabic",100.0,,,,
+"South Africa","Zulu",23.8,"Xhosa",17.6,"Afrikaans",13.3
+"Zambia","Bemba",29.7,"Nyanja",15.2,"Tonga",10.7
+"Zimbabwe","Shona",70.0,"Ndebele",20.0,"English",2.0

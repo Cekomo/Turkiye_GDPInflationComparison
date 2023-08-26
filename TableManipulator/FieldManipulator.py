@@ -1,6 +1,6 @@
 import csv
 
-input_file = 'gdp_per_capita.csv'
+input_file = 'API_SE.ADT.LITR.ZS_DS2_en_csv_v2_5728795.csv'
 output_file = 'output_file.csv'
 
 with open(input_file, 'r') as file:
