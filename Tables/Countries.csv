@@ -1,266 +1,267 @@
-country,country_code,region,population,official_language,government_type
-Aruba,ABW,Latin America & Caribbean,106766,Dutch,Constitutional Monarchy
-Africa Eastern and Southern,,Sub-Saharan Africa,,,
-Afghanistan,AFG,South Asia,38041754,Pashto,Islamic Republic
-Africa Western and Central,,Sub-Saharan Africa,,,
-Angola,AGO,Sub-Saharan Africa,31825295,Portuguese,Presidential Republic
-Albania,ALB,Europe & Central Asia,2854191,Albanian,Parliamentary Republic
-Andorra,AND,Europe & Central Asia,77142,Catalan,Parliamentary Democracy (Since 1993)
-Arab World,,Middle East & North Africa,,,
-United Arab Emirates,ARE,Middle East & North Africa,9770529,Arabic,Federal Absolute Monarchy
-Argentina,ARG,Latin America & Caribbean,44938712,Spanish,Federal Presidential Republic
-Armenia,ARM,Europe & Central Asia,2957731,Armenian,Semi-Presidential Republic
-American Samoa,ASM,East Asia & Pacific,55312,Samoan,US Territory
-Antigua and Barbuda,ATG,Latin America & Caribbean,97118,English,Constitutional Monarchy
-Australia,AUS,East Asia & Pacific,25203200,English,Parliamentary Democracy
-Austria,AUT,Europe & Central Asia,8858775,German,Federal Parliamentary Republic
-Azerbaijan,AZE,Europe & Central Asia,10067108,Azerbaijani,Presidential Republic
-Burundi,BDI,Sub-Saharan Africa,11530577,French,Presidential Republic
-Belgium,BEL,Europe & Central Asia,11455519,Dutch,Federal Parliamentary Democracy
-Benin,BEN,Sub-Saharan Africa,11801151,French,Presidential Republic
-Burkina Faso,BFA,Sub-Saharan Africa,20321378,French,Presidential Republic
-Bangladesh,BGD,South Asia,163046161,Bengali,Parliamentary Democracy
-Bulgaria,BGR,Europe & Central Asia,7000039,Bulgarian,Parliamentary Republic
-Bahrain,BHR,Middle East & North Africa,1641172,Arabic,Constitutional Monarchy
-Bahamas,BHS,Latin America & Caribbean,3894824,English,Constitutional Monarchy
-Bosnia and Herzegovina,BIH,Europe & Central Asia,3301000,Bosnian,Federal Parliamentary Republic
-Belarus,BLR,Europe & Central Asia,9452113,Belarusian,Presidential Republic
-Belize,BLZ,Latin America & Caribbean,397628,English,Parliamentary Democracy
-Bermuda,BMU,Latin America & Caribbean,63918,English,Parliamentary Democracy
-China,CHN,East Asia & Pacific,1393409038,Chinese,Socialist Republic
-Bolivia,BOL,Latin America & Caribbean,11513100,Spanish,Presidential Republic
-Brazil,BRA,Latin America & Caribbean,211049527,Portuguese,Federal Presidential Republic
-Barbados,BRB,Latin America & Caribbean,287025,English,Parliamentary Democracy
-Brunei Darussalam,BRN,East Asia & Pacific,433285,Malay,Absolute Monarchy
-Bhutan,BTN,South Asia,763092,Dzongkha,Constitutional Monarchy
-Botswana,BWA,Sub-Saharan Africa,2303697,English,Parliamentary Republic
-Central African Republic,CAF,Sub-Saharan Africa,4745185,French,Presidential Republic
-Canada,CAN,North America,37589262,English,Parliamentary Democracy
-Central Europe and the Baltics,,Europe & Central Asia,,,
-Switzerland,CHE,Europe & Central Asia,8574832,German,Federal Republic
-Channel Islands,,Europe & Central Asia,,,
-Chile,CHL,Latin America & Caribbean,18952035,Spanish,Presidential Republic
-Cote d'Ivoire,CIV,Sub-Saharan Africa,25716544,French,Presidential Republic
-Cameroon,CMR,Sub-Saharan Africa,25876380,English,Presidential Republic
-Congo Dem. Rep.,COD,Sub-Saharan Africa,86790567,French,Semi-Presidential Republic
-Congo Rep.,COG,Sub-Saharan Africa,5380508,French,Presidential Republic
-Colombia,COL,Latin America & Caribbean,50339443,Spanish,Presidential Republic
-Comoros,COM,Sub-Saharan Africa,850886,Arabic,Presidential Republic
-Cabo Verde,CPV,Sub-Saharan Africa,549935,Portuguese,Semi-Presidential Republic
-Costa Rica,CRI,Latin America & Caribbean,5047561,Spanish,Presidential Republic
-Caribbean small states,,Latin America & Caribbean,,,
-Cuba,CUB,Latin America & Caribbean,11326616,Spanish,Communist State
-Curacao,,Latin America & Caribbean,,Dutch,Parliamentary Democracy
-Cayman Islands,,Latin America & Caribbean,,English,Parliamentary Democracy
-Cyprus,CYP,Europe & Central Asia,875898,Greek,Presidential Republic
-Czechia,CZE,Europe & Central Asia,10689209,Czech,Parliamentary Republic
-Germany,DEU,Europe & Central Asia,83019213,German,Federal Republic
-Djibouti,DJI,Sub-Saharan Africa,973560,Arabic,Presidential Republic
-Dominica,DMA,Latin America & Caribbean,71808,English,Parliamentary Democracy
-Denmark,DNK,Europe & Central Asia,5818553,Danish,Constitutional Monarchy
-Dominican Republic,DOM,Latin America & Caribbean,10847910,Spanish,Presidential Republic
-Algeria,DZA,Middle East & North Africa,43053054,Arabic,Presidential Republic
-East Asia & Pacific (excluding high income),,East Asia & Pacific,,,
-Early-demographic dividend,,,,,
-East Asia & Pacific,,East Asia & Pacific,,,
-Europe & Central Asia (excluding high income),,Europe & Central Asia,,,
-Mozambique,MOZ,Sub-Saharan Africa,30366036,Portuguese,Presidential Republic
-Europe & Central Asia,,Europe & Central Asia,,,
-Ecuador,ECU,Latin America & Caribbean,17373657,Spanish,Presidential Republic
-Egypt Arab Rep.,EGY,Middle East & North Africa,100388073,Arabic,Presidential Republic
-Euro area,,Europe & Central Asia,,,
-Eritrea,ERI,Sub-Saharan Africa,3497117,Tigrigna,Presidential Republic
-Spain,ESP,Europe & Central Asia,47076781,Spanish,Parliamentary Constitutional Monarchy
-Estonia,EST,Europe & Central Asia,1326539,Estonian,Parliamentary Republic
-Ethiopia,ETH,Sub-Saharan Africa,112078730,Amharic,Federal Parliamentary Republic
-European Union,,Europe & Central Asia,,,
-Fragile and conflict affected situations,,Sub-Saharan Africa,,,
-Finland,FIN,Europe & Central Asia,5520314,Finnish,Parliamentary Republic
-Fiji,FJI,East Asia & Pacific,889953,English,Parliamentary Democracy
-France,FRA,Europe & Central Asia,67059887,French,Semi-Presidential Republic
-Faroe Islands,,Europe & Central Asia,,Faroese,Part of the Danish Realm
-Micronesia Fed. Sts.,FSM,East Asia & Pacific,113815,English,Federal Republic
-Gabon,GAB,Sub-Saharan Africa,2172579,French,Presidential Republic
-United Kingdom,GBR,Europe & Central Asia,66647112,English,Constitutional Monarchy
-Georgia,GEO,Europe & Central Asia,3726549,Georgian,Semi-Presidential Republic
-Ghana,GHA,Sub-Saharan Africa,30417856,English,Presidential Republic
-Gibraltar,,Europe & Central Asia,,English,Parliamentary Democracy
-Guinea,GIN,Sub-Saharan Africa,12771246,French,Presidential Republic
-Gambia,GMB,Sub-Saharan Africa,2347706,English,Presidential Republic
-Guinea-Bissau,GNB,Sub-Saharan Africa,1920922,Portuguese,Semi-Presidential Republic
-Equatorial Guinea,GNQ,Sub-Saharan Africa,1355986,Spanish,Presidential Republic
-Greece,GRC,Europe & Central Asia,10715549,Greek,Parliamentary Republic
-Grenada,GRD,Latin America & Caribbean,112523,English,Parliamentary Democracy
-Greenland,,Europe & Central Asia,,Greenlandic,Part of the Danish Realm
-Guatemala,GTM,Latin America & Caribbean,17247807,Spanish,Presidential Republic
-Guam,GUM,East Asia & Pacific,167294,English,US Territory
-Guyana,GUY,Latin America & Caribbean,782766,English,Parliamentary Republic
-High income,,,,,
-Hong Kong SAR China,HKG,East Asia & Pacific,7436154,Chinese,Special Administrative Region
-Honduras,HND,Latin America & Caribbean,9746117,Spanish,Presidential Republic
-Heavily indebted poor countries (HIPC),,,,,
-Croatia,HRV,Europe & Central Asia,4089400,Croatian,Parliamentary Republic
-Haiti,HTI,Latin America & Caribbean,11263079,Haitian Creole,Presidential Republic
-Cambodia,KHM,East Asia & Pacific,16486542,Khmer,Constitutional Monarchy
-Kiribati,KIR,East Asia & Pacific,117606,English,Parliamentary Democracy
-Hungary,HUN,Europe & Central Asia,9775564,Hungarian,Parliamentary Republic
-IBRD only,,,,,
-IDA & IBRD total,,,,,
-IDA total,,,,,
-IDA blend,,,,,
-Indonesia,IDN,East Asia & Pacific,270625568,Indonesian,Presidential Republic
-IDA only,,,,,
-Isle of Man,,Europe & Central Asia,,English,Parliamentary Democracy
-India,IND,South Asia,1366417754,Hindi,Federal Parliamentary Republic
-Not classified,,,,,
-Ireland,IRL,Europe & Central Asia,4882495,Irish,Parliamentary Republic
-Iran Islamic Rep.,IRN,Middle East & North Africa,82913906,Persian,Islamic Republic
-Iraq,IRQ,Middle East & North Africa,39309783,Arabic,Federal Parliamentary Republic
-Iceland,ISL,Europe & Central Asia,356991,Icelandic,Parliamentary Republic
-Israel,ISR,Middle East & North Africa,9053300,Hebrew,Parliamentary Republic
-Italy,ITA,Europe & Central Asia,60297396,Italian,Parliamentary Republic
-Jamaica,JAM,Latin America & Caribbean,2948279,English,Constitutional Monarchy
-Jordan,JOR,Middle East & North Africa,10101694,Arabic,Constitutional Monarchy
-Japan,JPN,East Asia & Pacific,126860301,Japanese,Parliamentary Constitutional Monarchy
-Kazakhstan,KAZ,Europe & Central Asia,18551427,Kazakh,Presidential Republic
-Kenya,KEN,Sub-Saharan Africa,52573973,English,Presidential Republic
-Kyrgyz Republic,KGZ,Europe & Central Asia,6415851,Kyrgyz,Parliamentary Republic
-St. Kitts and Nevis,KNA,Latin America & Caribbean,52834,English,Parliamentary Democracy
-Korea Rep.,KOR,East Asia & Pacific,51269185,Korean,Presidential Republic
-Kuwait,KWT,Middle East & North Africa,4207083,Arabic,Constitutional Monarchy
-Latin America & Caribbean (excluding high income),,Latin America & Caribbean,,,
-Lao PDR,LAO,East Asia & Pacific,7169455,Lao,Communist State
-Lebanon,LBN,Middle East & North Africa,6855713,Arabic,Parliamentary Republic
-Liberia,LBR,Sub-Saharan Africa,4937374,English,Presidential Republic
-Libya,LBY,Middle East & North Africa,6777452,Arabic,Provisional Government
-St. Lucia,LCA,Latin America & Caribbean,182790,English,Parliamentary Democracy
-Latin America & Caribbean,,Latin America & Caribbean,,,
-Least developed countries: UN classification,,Sub-Saharan Africa,,,
-Low income,,,,,
-Liechtenstein,LIE,Europe & Central Asia,38019,German,Constitutional Monarchy
-Sri Lanka,LKA,South Asia,21803000,Sinhalese,Presidential Republic
-Lower middle income,,,,,
-Low & middle income,,,,,
-Lesotho,LSO,Sub-Saharan Africa,2125268,Sesotho,Parliamentary Constitutional Monarchy
-Late-demographic dividend,,,,,
-Lithuania,LTU,Europe & Central Asia,2759627,Lithuanian,Parliamentary Republic
-Luxembourg,LUX,Europe & Central Asia,615729,Luxembourgish,Constitutional Monarchy
-Latvia,LVA,Europe & Central Asia,1906743,Latvian,Parliamentary Republic
-Macao SAR China,MAC,East Asia & Pacific,640445,Portuguese,Special Administrative Region
-St. Martin (French part),MAF,Latin America & Caribbean,38666,French,Overseas Collectivity
-Morocco,MAR,Middle East & North Africa,36471769,Arabic,Constitutional Monarchy
-Monaco,MCO,Europe & Central Asia,38964,French,Constitutional Monarchy
-Moldova,MDA,Europe & Central Asia,2681735,Romanian,Parliamentary Republic
-Mongolia,MNG,East Asia & Pacific,3225167,Mongolian,Semi-Presidential Republic
-Madagascar,MDG,Sub-Saharan Africa,26969307,Malagasy,Semi-Presidential Republic
-Maldives,MDV,South Asia,530953,Dhivehi,Presidential Republic
-Middle East & North Africa,,Middle East & North Africa,,,
-Mexico,MEX,Latin America & Caribbean,127575529,Spanish,Federal Presidential Republic
-Marshall Islands,MHL,East Asia & Pacific,58413,Marshallese,Parliamentary Democracy
-Middle income,,,,,
-North Macedonia,MKD,Europe & Central Asia,2083459,Macedonian,Parliamentary Republic
-Mali,MLI,Sub-Saharan Africa,19658031,French,Presidential Republic
-Malta,MLT,Europe & Central Asia,493559,Maltese,Parliamentary Republic
-Myanmar,MMR,East Asia & Pacific,54045420,Burmese,Presidential Republic
-Middle East & North Africa (excluding high income),,Middle East & North Africa,,,
-Montenegro,MNE,Europe & Central Asia,622303,Montenegrin,Parliamentary Republic
-Northern Mariana Islands,MNP,East Asia & Pacific,56225,Chamorro,US Territory
-Mauritania,MRT,Sub-Saharan Africa,4525696,Arabic,Presidential Republic
-Mauritius,MUS,Sub-Saharan Africa,1271768,English,Parliamentary Republic
-Malawi,MWI,Sub-Saharan Africa,18628747,English,Presidential Republic
-Malaysia,MYS,East Asia & Pacific,31949777,Malay,Federal Constitutional Monarchy
-North America,,North America,,,
-Namibia,NAM,Sub-Saharan Africa,2494530,English,Presidential Republic
-New Caledonia,NCL,East Asia & Pacific,282750,French,Sui Generis Collectivity
-Niger,NER,Sub-Saharan Africa,23310715,French,Presidential Republic
-Nigeria,NGA,Sub-Saharan Africa,200963599,English,Federal Republic
-Nicaragua,NIC,Latin America & Caribbean,6545502,Spanish,Presidential Republic
-Netherlands,NLD,Europe & Central Asia,17282163,Dutch,Constitutional Monarchy
-Norway,NOR,Europe & Central Asia,5378857,Norwegian,Constitutional Monarchy
-Nepal,NPL,South Asia,28608715,Nepali,Federal Parliamentary Republic
-Nauru,NRU,East Asia & Pacific,10756,Nauruan,Parliamentary Republic
-New Zealand,NZL,East Asia & Pacific,4885500,English,Parliamentary Democracy
-OECD members,,,,,
-Oman,OMN,Middle East & North Africa,4974986,Arabic,Absolute Monarchy
-Other small states,,,,,
-Pakistan,PAK,South Asia,216565318,Urdu,Federal Republic
-Panama,PAN,Latin America & Caribbean,4246440,Spanish,Presidential Republic
-Peru,PER,Latin America & Caribbean,32510462,Spanish,Presidential Republic
-Philippines,PHL,East Asia & Pacific,108116615,Filipino,Presidential Republic
-Palau,PLW,East Asia & Pacific,18092,English,Presidential Republic
-Papua New Guinea,PNG,East Asia & Pacific,8776109,English,Parliamentary Democracy
-Poland,POL,Europe & Central Asia,37974750,Polish,Parliamentary Republic
-Pre-demographic dividend,,,,,
-Puerto Rico,PRI,Latin America & Caribbean,2933403,Spanish,US Territory
-Korea Dem. People’s Rep.,PRK,East Asia & Pacific,25666161,Korean,Dictatorship
-Portugal,PRT,Europe & Central Asia,10281762,Portuguese,Parliamentary Republic
-Paraguay,PRY,Latin America & Caribbean,7044636,Spanish,Presidential Republic
-West Bank and Gaza,PSE,Middle East & North Africa,4685306,Arabic,Parliamentary Republic
-Pacific island small states,,East Asia & Pacific,,,
-Post-demographic dividend,,,,,
-French Polynesia,PYF,East Asia & Pacific,279287,French,Overseas Collectivity
-Qatar,QAT,Middle East & North Africa,2832071,Arabic,Absolute Monarchy
-Romania,ROU,Europe & Central Asia,19364557,Romanian,Semi-Presidential Republic
-Russian Federation,RUS,Europe & Central Asia,145872256,Russian,Federal Semi-Presidential Republic
-Rwanda,RWA,Sub-Saharan Africa,12626950,Kinyarwanda,Presidential Republic
-South Asia,,South Asia,,,
-Saudi Arabia,SAU,Middle East & North Africa,34268528,Arabic,Absolute Monarchy
-Sudan,SDN,Sub-Saharan Africa,42813238,Arabic,Provisional Military Council
-Senegal,SEN,Sub-Saharan Africa,16296364,French,Presidential Republic
-Singapore,SGP,East Asia & Pacific,5703569,Malay,Parliamentary Republic
-Solomon Islands,SLB,East Asia & Pacific,669823,English,Parliamentary Democracy
-Sierra Leone,SLE,Sub-Saharan Africa,7813215,English,Presidential Republic
-El Salvador,SLV,Latin America & Caribbean,6453553,Spanish,Presidential Republic
-San Marino,SMR,Europe & Central Asia,34453,Italian,Parliamentary Republic
-Somalia,SOM,Sub-Saharan Africa,15008154,Somali,Federal Republic
-Serbia,SRB,Europe & Central Asia,6944975,Serbian,Parliamentary Republic
-Sub-Saharan Africa (excluding high income),,Sub-Saharan Africa,,,
-South Sudan,SSD,Sub-Saharan Africa,11062113,English,Transitional Government
-Small states,,,,,
-Sao Tome and Principe,STP,Sub-Saharan Africa,215056,Portuguese,Semi-Presidential Republic
-Suriname,SUR,Latin America & Caribbean,581372,Dutch,Republic
-Slovak Republic,SVK,Europe & Central Asia,5457013,Slovak,Parliamentary Republic
-Slovenia,SVN,Europe & Central Asia,2087946,Slovenian,Parliamentary Republic
-Sweden,SWE,Europe & Central Asia,10230185,Swedish,Constitutional Monarchy
-Eswatini,SWZ,Sub-Saharan Africa,1148130,Swazi,Monarchy
-Sint Maarten (Dutch part),SXM,Latin America & Caribbean,40654,Dutch,Constitutional Monarchy
-Seychelles,SYC,Sub-Saharan Africa,97739,English,Presidential Republic
-Syrian Arab Republic,SYR,Middle East & North Africa,17070135,Arabic,Presidential Republic
-Turks and Caicos Islands,TCA,Latin America & Caribbean,38191,English,Parliamentary Democracy
-Chad,TCD,Sub-Saharan Africa,15946876,Arabic,Presidential Republic
-East Asia & Pacific (IDA & IBRD countries),,East Asia & Pacific,,,
-Europe & Central Asia (IDA & IBRD countries),,Europe & Central Asia,,,
-Togo,TGO,Sub-Saharan Africa,8082366,French,Presidential Republic
-Thailand,THA,East Asia & Pacific,69625582,Thai,Constitutional Monarchy
-Tajikistan,TJK,Europe & Central Asia,9321018,Tajik,Presidential Republic
-Turkmenistan,TKM,Europe & Central Asia,5942089,Turkmen,Presidential Republic
-Latin America & the Caribbean (IDA & IBRD countries),,Latin America & Caribbean,,,
-Timor-Leste,TLS,East Asia & Pacific,1293119,Tetum,Parliamentary Republic
-Middle East & North Africa (IDA & IBRD countries),,Middle East & North Africa,,,
-Tonga,TON,East Asia & Pacific,104494,English,Constitutional Monarchy
-South Asia (IDA & IBRD),,South Asia,,,
-Sub-Saharan Africa (IDA & IBRD countries),,Sub-Saharan Africa,,,
-Trinidad and Tobago,TTO,Latin America & Caribbean,1394969,English,Parliamentary Republic
-Tunisia,TUN,Middle East & North Africa,11694719,Arabic,Parliamentary Republic
-Turkey,TUR,Middle East & North Africa,83429615,Turkish,Presidential Republic
-Tuvalu,TUV,East Asia & Pacific,11646,English,Parliamentary Democracy
-Tanzania,TZA,Sub-Saharan Africa,58005463,Swahili,Presidential Republic
-Uganda,UGA,Sub-Saharan Africa,44269594,English,Presidential Republic
-Ukraine,UKR,Europe & Central Asia,43993643,Ukrainian,Presidential Republic
-Upper middle income,,,,,
-Uruguay,URY,Latin America & Caribbean,3461734,Spanish,Presidential Republic
-United States,USA,North America,329064917,English,Federal Presidential Republic
-Uzbekistan,UZB,Europe & Central Asia,33580650,Uzbek,Presidential Republic
-St. Vincent and the Grenadines,VCT,Latin America & Caribbean,110947,English,Parliamentary Democracy
-Venezuela RB,VEN,Latin America & Caribbean,28515829,Spanish,Federal Republic
-British Virgin Islands,VGB,Latin America & Caribbean,29802,English,Parliamentary Democracy
-Virgin Islands (U.S.),VIR,Latin America & Caribbean,106977,English,US Territory
-Vietnam,VNM,East Asia & Pacific,96462106,Vietnamese,Socialist Republic
-Vanuatu,VUT,East Asia & Pacific,299882,English,Parliamentary Republic
-World,,,,,
-Samoa,WSM,East Asia & Pacific,197097,English,Parliamentary Democracy
-Kosovo,XKX,Europe & Central Asia,1794244,Albanian,Parliamentary Republic
-Yemen Rep.,YEM,Middle East & North Africa,29161922,Arabic,Provisional Government
-South Africa,ZAF,Sub-Saharan Africa,58558267,English,Parliamentary Republic
-Zambia,ZMB,Sub-Saharan Africa,17861034,English,Presidential Republic
-Zimbabwe,ZWE,Sub-Saharan Africa,14645473,English,Presidential Republic
+Country,ISO_code,Region,Capital_City,Area_km2,Population,Currency
+Aruba,,"Latin America & Caribbean",,"180",107195,"Aruban florin"
+Africa Eastern and Southern,,"Sub-Saharan Africa",,,,
+Afghanistan,AFG,"South Asia","Kabul","652230",38292946,"Afghan afghani"
+Africa Western and Central,,"Sub-Saharan Africa",,,,
+Angola,AGO,"Sub-Saharan Africa","Luanda","1246700",32866272,"Angolan kwanza"
+Albania,ALB,"Europe & Central Asia","Tirana","28748",2854191,"Albanian lek"
+Andorra,AND,"Europe & Central Asia","Andorra la Vella","468",77265,"Euro"
+Arab World,,"Middle East & North Africa",,,,
+United Arab Emirates,ARE,"Middle East & North Africa","Abu Dhabi","83600",9770529,"UAE dirham"
+Argentina,ARG,"Latin America & Caribbean","Buenos Aires","2780400",45195777,"Argentine peso"
+Armenia,ARM,"Europe & Central Asia","Yerevan","29743",2963243,"Armenian dram"
+American Samoa,ASM,"East Asia & Pacific",,"199",55312,"US dollar"
+Antigua and Barbuda,ATG,"Latin America & Caribbean","Saint John's","442",97929,"East Caribbean dollar"
+Australia,AUS,"East Asia & Pacific","Canberra","7692024",25499884,"Australian dollar"
+Austria,AUT,"Europe & Central Asia","Vienna","83871",9006400,"Euro"
+Azerbaijan,AZE,"Europe & Central Asia","Baku","86600",10139175,"Azerbaijani manat"
+Burundi,"BDI","Sub-Saharan Africa","Bujumbura Mairie","27830",11530577,"Burundian franc"
+Belgium,BEL,"Europe & Central Asia","Brussels","30528",11589623,"Euro"
+Benin,BEN,"Sub-Saharan Africa","Porto-Novo","112622",12123198,"West African CFA franc"
+Burkina Faso,BFA,"Sub-Saharan Africa","Ouagadougou","272967",20903273,"West African CFA franc"
+Bangladesh,BGD,"South Asia","Dhaka","148460",161356039,"Bangladeshi taka"
+Bulgaria,BGR,"Europe & Central Asia","Sofia","110879",6988739,"Bulgarian lev"
+Bahrain,BHR,"Middle East & North Africa","Manama","694",1701575,"Bahraini dinar"
+Bahamas The,BHS,"Latin America & Caribbean","Nassau","13880",385340,"Bahamian dollar"
+Bosnia and Herzegovina,BIH,"Europe & Central Asia","Sarajevo","51197",3301000,"Bosnian Convertible Mark"
+Belarus,BLR,"Europe & Central Asia","Minsk","207600",9452411,"Belarusian ruble"
+Belize,"BLZ","Latin America & Caribbean","Belmopan","22966",398050,"Belize dollar"
+Bermuda,BMU,"North America",,"54",62278,"Bermudian dollar"
+Bolivia,BOL,"Latin America & Caribbean","La Paz","1098580",11673021,"Bolivian boliviano"
+Brazil,BRA,"Latin America & Caribbean","Brasília","8515770",212559417,"Brazilian real"
+Barbados,BRB,"Latin America & Caribbean","Bridgetown","430",287375,"Barbadian or Bajan dollar"
+Brunei Darussalam,BRN,"East Asia & Pacific","Bandar Seri Begawan","5765",433285,"Bruneian dollar"
+Bhutan,BTN,"South Asia","Thimphu","38394",763092,"Bhutanese ngultrum"
+Botswana,BWA,"Sub-Saharan Africa","Gaborone","581730",2351627,"Botswana pula"
+Central African Republic,CAF,"Sub-Saharan Africa","Bangui","622984",4837366,"Central African CFA franc"
+Canada,CAN,"North America","Ottawa","9984670",37742154,"Canadian dollar"
+Central Europe and the Baltics,,"Europe & Central Asia",,,,
+Switzerland,CHE,"Europe & Central Asia","Bern","41284",8654622,"Swiss franc"
+Channel Islands,,"Europe & Central Asia",,,,
+Chile,CHL,"Latin America & Caribbean","Santiago","756102",19116209,"Chilean peso"
+China,CHN,"East Asia & Pacific","Beijing","9596960",1409320634,"Chinese yuan renminbi"
+Cote d'Ivoire,CIV,"Sub-Saharan Africa","Yamoussoukro","322463",25716544,"West African CFA franc"
+Cameroon,CMR,"Sub-Saharan Africa","Yaoundé","475440",26545864,"Central African CFA franc"
+Congo Dem. Rep.,COD,"Sub-Saharan Africa","Kinshasa","2344858",85026000,"Congolese franc"
+Congo Rep.,COG,"Sub-Saharan Africa","Brazzaville","342000",5518087,"Central African CFA franc"
+Colombia,COL,"Latin America & Caribbean","Bogotá","1141748",50882891,"Colombian peso"
+Comoros,COM,"Sub-Saharan Africa","Moroni","2235",869601,"Comorian franc"
+Cabo Verde,CPV,"Sub-Saharan Africa","Praia","4033",549935,"Cape Verdean escudo"
+Costa Rica,CRI,"Latin America & Caribbean","San José","51100",5094114,"Costa Rican colon"
+Caribbean small states,,"Latin America & Caribbean",,,,
+Cuba,CUB,"Latin America & Caribbean","Havana","110861",11326616,"Cuban peso"
+Curacao,,"Latin America & Caribbean",,"444",164093,"Netherlands Antillean guilder"
+Cayman Islands,CYM,"Latin America & Caribbean","George Town","264",65889,"Cayman Islands dollar"
+Cyprus,CYP,"Europe & Central Asia","Nicosia","9251",1207359,"Euro"
+Czechia,CZE,"Europe & Central Asia","Prague","78866",10708981,"Czech koruna"
+Germany,DEU,"Europe & Central Asia","Berlin","357022",83132799,"Euro"
+Djibouti,DJI,"Middle East & North Africa","Djibouti","23000",973560,"Djiboutian franc"
+Dominica,DMA,"Latin America & Caribbean","Roseau","751",71808,"East Caribbean dollar"
+Denmark,DNK,"Europe & Central Asia","Copenhagen","43094",5792202,"Danish krone"
+Dominican Republic,DOM,"Latin America & Caribbean","Santo Domingo","48671",10847904,"Dominican peso"
+Algeria,DZA,"Middle East & North Africa","Algiers","2381741",43851043,"Algerian dinar"
+East Asia & Pacific (excluding high income),,"East Asia & Pacific",,,,
+Early-demographic dividend,,"World",,,,
+East Asia & Pacific,,"East Asia & Pacific",,,,
+Europe & Central Asia (excluding high income),,"Europe & Central Asia",,,,
+Europe & Central Asia,,"Europe & Central Asia",,,,
+Ecuador,ECU,"Latin America & Caribbean","Quito","276841",17643060,"US dollar"
+Egypt Arab Rep.,EGY,"Middle East & North Africa","Cairo","1001449",102334403,"Egyptian pound"
+Euro area,,"Europe & Central Asia",,,,
+Eritrea,ERI,"Sub-Saharan Africa","Asmara","117600",3497117,"Eritrean nakfa"
+Spain,ESP,"Europe & Central Asia","Madrid","505990",46723749,"Euro"
+Estonia,EST,"Europe & Central Asia","Tallinn","45339",1328976,"Euro"
+Ethiopia,ETH,"Sub-Saharan Africa","Addis Ababa","1104300",114963588,"Ethiopian birr"
+European Union,,"Europe & Central Asia",,,,
+Fragile and conflict affected situations,,"Sub-Saharan Africa",,,,
+Finland,FIN,"Europe & Central Asia","Helsinki","338424",5540720,"Euro"
+Fiji,FJI,"East Asia & Pacific","Suva","18274",896445,"Fijian dollar"
+France,FRA,"Europe & Central Asia","Paris","551695",65273511,"Euro"
+Faroe Islands,FRO,"Europe & Central Asia","Tórshavn","1393",48863,"Danish krone"
+Micronesia Fed. Sts.,FSM,"East Asia & Pacific","Palikir","702",115023,"US dollar"
+Gabon,GAB,"Sub-Saharan Africa","Libreville","267668",2172579,"Central African CFA franc"
+United Kingdom,GBR,"Europe & Central Asia","London","243610",67886004,"Pound sterling"
+Georgia,GEO,"Europe & Central Asia","Tbilisi","69700",3989167,"Georgian lari"
+Ghana,GHA,"Sub-Saharan Africa","Accra","238533",31072945,"Ghanaian cedi"
+Gibraltar,GIB,"Europe & Central Asia","Gibraltar","6",33691,"Gibraltar pound"
+Guinea,GIN,"Sub-Saharan Africa","Conakry","245857",13132795,"Guinean franc"
+Gambia The,GMB,"Sub-Saharan Africa","Banjul","10689",2416667,"Gambian dalasi"
+Guinea-Bissau,GNB,"Sub-Saharan Africa","Bissau","36125",1967998,"West African CFA franc"
+Equatorial Guinea,GNQ,"Sub-Saharan Africa","Malabo","28051",1402985,"Central African CFA franc"
+Greece,GRC,"Europe & Central Asia","Athens","131957",10715549,"Euro"
+Grenada,GRD,"Latin America & Caribbean","St. George's","344",112523,"East Caribbean dollar"
+Greenland,GRL,"Europe & Central Asia","Nuuk","2166086",56770,"Danish krone"
+Guatemala,GTM,"Latin America & Caribbean","Guatemala City","108889",17915568,"Guatemalan quetzal"
+Guam,GUM,"East Asia & Pacific",,"549",168485,"US dollar"
+Guyana,GUY,"Latin America & Caribbean","Georgetown","214969",786559,"Guyanese dollar"
+High income,,"World",,,,
+Hong Kong SAR China,HKG,"East Asia & Pacific","Victoria","1106",7496982,"Hong Kong dollar"
+Honduras,HND,"Latin America & Caribbean","Tegucigalpa","112492",9904608,"Honduran lempira"
+Heavily indebted poor countries (HIPC),,"World",,,,
+Croatia,HRV,"Europe & Central Asia","Zagreb","56594",4089400,"Croatian kuna"
+Haiti,HTI,"Latin America & Caribbean","Port-au-Prince","27750",11263077,"Haitian gourde"
+Hungary,HUN,"Europe & Central Asia","Budapest","93030",9660350,"Hungarian forint"
+IBRD only,,"World",,,,
+IDA & IBRD total,,"World",,,,
+IDA total,,"World",,,,
+IDA blend,,"World",,,,
+Indonesia,IDN,"East Asia & Pacific","Jakarta","1910931",273523615,"Indonesian rupiah"
+IDA only,,"World",,,,
+Isle of Man,IMN,"Europe & Central Asia","Douglas","572",85032,"Manx pound"
+India,IND,"South Asia","New Delhi","3287263",1380004385,"Indian rupee"
+Not classified,,"World",,,,
+Ireland,IRL,"Europe & Central Asia","Dublin","70273",4937796,"Euro"
+Iran Islamic Rep.,IRN,"Middle East & North Africa","Tehran","1648195",83992949,"Iranian rial"
+Iraq,IRQ,"Middle East & North Africa","Baghdad","438317",40222503,"Iraqi dinar"
+Iceland,ISL,"Europe & Central Asia","Reykjavik","102775",366425,"Icelandic krona"
+Israel,ISR,"Middle East & North Africa","Jerusalem","20770",8655541,"Israeli new shekel"
+Italy,ITA,"Europe & Central Asia","Rome","301340",60431283,"Euro"
+Jamaica,JAM,"Latin America & Caribbean","Kingston","10991",2961167,"Jamaican dollar"
+Jordan,JOR,"Middle East & North Africa","Amman","89342",10203134,"Jordanian dinar"
+Japan,JPN,"East Asia & Pacific","Tokyo","377975",126476461,"Japanese yen"
+Kazakhstan,KAZ,"Europe & Central Asia","Nur-Sultan","2724900",18776707,"Kazakhstani tenge"
+Kenya,KEN,"Sub-Saharan Africa","Nairobi","580367",53771300,"Kenyan shilling"
+Kyrgyz Republic,KGZ,"Europe & Central Asia","Bishkek","199951",6524195,"Kyrgyzstani som"
+Cambodia,KHM,"East Asia & Pacific","Phnom Penh","181035",16718965,"Cambodian riel"
+Kiribati,KIR,"East Asia & Pacific","Tarawa","726",119449,"Australian dollar"
+St. Kitts and Nevis,KNA,"Latin America & Caribbean","Basseterre","261",53199,"East Caribbean dollar"
+Korea Rep.,KOR,"East Asia & Pacific","Seoul","100210",51269185,"South Korean won"
+Kuwait,KWT,"Middle East & North Africa","Kuwait City","17818",4270571,"Kuwaiti dinar"
+Latin America & Caribbean (excluding high income),,"Latin America & Caribbean",,,,
+Lao PDR,LAO,"East Asia & Pacific","Vientiane","236800",7275556,"Lao or Laotian kip"
+Lebanon,LBN,"Middle East & North Africa","Beirut","10452",6825442,"Lebanese pound"
+Liberia,LBR,"Sub-Saharan Africa","Monrovia","111369",5057677,"Liberian dollar"
+Libya,LBY,"Middle East & North Africa","Tripoli","1759540",6871287,"Libyan dinar"
+St. Lucia,LCA,"Latin America & Caribbean","Castries","616",183627,"East Caribbean dollar"
+Latin America & Caribbean,,"Latin America & Caribbean",,,,
+Least developed countries: UN classification,,"World",,,,
+Low income,,"World",,,,
+Liechtenstein,LIE,"Europe & Central Asia","Vaduz","160",38128,"Swiss franc"
+Sri Lanka,LKA,"South Asia","Colombo","65610",21413249,"Sri Lankan rupee"
+Lower middle income,,"World",,,,
+Low & middle income,,"World",,,,
+Lesotho,LSO,"Sub-Saharan Africa","Maseru","30355",2142249,"Lesotho loti"
+Late-demographic dividend,,"World",,,,
+Lithuania,LTU,"Europe & Central Asia","Vilnius","65300",2722289,"Euro"
+Luxembourg,LUX,"Europe & Central Asia","Luxembourg","2586",625978,"Euro"
+Latvia,LVA,"Europe & Central Asia","Riga","64589",1886198,"Euro"
+Macao SAR China,MAC,"East Asia & Pacific","Macao","32",649335,"Macau pataca"
+St. Martin (French part),MAF,"Latin America & Caribbean","Marigot","53",38666,"Euro"
+Morocco,MAR,"Middle East & North Africa","Rabat","446550",36910560,"Moroccan dirham"
+Monaco,MCO,"Europe & Central Asia","Monaco","2",39242,"Euro"
+Moldova,MDA,"Europe & Central Asia","Chisinau","33851",4033963,"Moldovan leu"
+Madagascar,MDG,"Sub-Saharan Africa","Antananarivo","587041",27691019,"Malagasy ariary"
+Maldives,MDV,"South Asia","Malé","298",540544,"Maldivian rufiyaa"
+Middle East & North Africa,,"Middle East & North Africa",,,,
+Mexico,MEX,"Latin America & Caribbean","Mexico City","1964375",128932753,"Mexican peso"
+Marshall Islands,MHL,"East Asia & Pacific","Majuro","181",59190,"US dollar"
+Middle income,,"World",,,,
+North Macedonia,MKD,"Europe & Central Asia","Skopje","25713",2083380,"Macedonian denar"
+Mali,MLI,"Sub-Saharan Africa","Bamako","1248574",20250834,"West African CFA franc"
+Malta,MLT,"Europe & Central Asia","Valletta","316",441543,"Euro"
+Myanmar,MMR,"East Asia & Pacific","Naypyidaw","676578",54409794,"Burmese kyat"
+Middle East & North Africa (excluding high income),,"Middle East & North Africa",,,,
+Montenegro,MNE,"Europe & Central Asia","Podgorica","13812",622182,"Euro"
+Mongolia,MNG,"East Asia & Pacific","Ulaanbaatar","1564116",3278290,"Mongolian tugrik"
+Northern Mariana Islands,MNP,"East Asia & Pacific","Saipan","457",57557,"US dollar"
+Mozambique,MOZ,"Sub-Saharan Africa","Maputo","799380",31255435,"Mozambican metical"
+Mauritania,MRT,"Sub-Saharan Africa","Nouakchott","1030700",4649658,"Mauritanian ouguiya"
+Mauritius,MUS,"Sub-Saharan Africa","Port Louis","2040",1271768,"Mauritian rupee"
+Malawi,MWI,"Sub-Saharan Africa","Lilongwe","118484",19129952,"Malawian kwacha"
+Malaysia,MYS,"East Asia & Pacific","Kuala Lumpur","330803",32365999,"Malaysian ringgit"
+North America,,"North America",,,,
+Namibia,NAM,"Sub-Saharan Africa","Windhoek","824292",2540905,"Namibian dollar"
+New Caledonia,NCL,"East Asia & Pacific","Nouméa","18575",285491,"CFP franc"
+Niger,NER,"Sub-Saharan Africa","Niamey","1267000",24206644,"West African CFA franc"
+Nigeria,NGA,"Sub-Saharan Africa","Abuja","923768",206139589,"Nigerian naira"
+Nicaragua,NIC,"Latin America & Caribbean","Managua","130373",6624554,"Nicaraguan cordoba"
+Netherlands,NLD,"Europe & Central Asia","Amsterdam","41543",17134872,"Euro"
+Norway,NOR,"Europe & Central Asia","Oslo","323808",5421241,"Norwegian krone"
+Nepal,NPL,"South Asia","Kathmandu","147516",29136808,"Nepalese rupee"
+Nauru,NRU,"East Asia & Pacific","Yaren","21",10824,"Australian dollar"
+New Zealand,NZL,"East Asia & Pacific","Wellington","270467",4822233,"New Zealand dollar"
+OECD members,,"World",,,,
+Oman,OMN,"Middle East & North Africa","Muscat","309500",5106626,"Omani rial"
+Other small states,,"World",,,,
+Pakistan,PAK,"South Asia","Islamabad","881913",220892340,"Pakistani rupee"
+Panama,PAN,"Latin America & Caribbean","Panama City","75417",4314767,"Panamanian balboa"
+Peru,PER,"Latin America & Caribbean","Lima","1285216",32971846,"Peruvian sol"
+Philippines,PHL,"East Asia & Pacific","Manila","300000",109581085,"Philippine peso"
+Palau,PLW,"East Asia & Pacific","Ngerulmud","459",18094,"US dollar"
+Papua New Guinea,PNG,"East Asia & Pacific","Port Moresby","462840",8947024,"Papua New Guinean kina"
+Poland,POL,"Europe & Central Asia","Warsaw","312696",37846611,"Polish zloty"
+Pre-demographic dividend,,"World",,,,
+Puerto Rico,PRI,"Latin America & Caribbean","San Juan","8870",2860853,"US dollar"
+Korea Dem. People's Rep.,PRK,"East Asia & Pacific","Pyongyang","120538",25778816,"North Korean won"
+Portugal,PRT,"Europe & Central Asia","Lisbon","92212",10196709,"Euro"
+Paraguay,PRY,"Latin America & Caribbean","Asunción","406752",7132535,"Paraguayan guarani"
+West Bank and Gaza,PSE,"Middle East & North Africa",,"6020",4685306,"Israeli new shekel"
+Pacific island small states,,"East Asia & Pacific",,,,
+Post-demographic dividend,,"World",,,,
+French Polynesia,PYF,"East Asia & Pacific","Papeete","4167",280904,"CFP franc"
+Qatar,QAT,"Middle East & North Africa","Doha","11586",2881053,"Qatari riyal"
+Romania,ROU,"Europe & Central Asia","Bucharest","238391",19237691,"Romanian leu"
+Russian Federation,RUS,"Europe & Central Asia","Moscow","17098242",145912025,"Russian ruble"
+Rwanda,RWA,"Sub-Saharan Africa","Kigali","26338",12952218,"Rwandan franc"
+South Asia,,"South Asia",,,,
+Saudi Arabia,SAU,"Middle East & North Africa","Riyadh","2149690",34813871,"Saudi Arabian riyal"
+Sudan,SDN,"Sub-Saharan Africa","Khartoum","1886068",43849260,"Sudanese pound"
+Senegal,SEN,"Sub-Saharan Africa","Dakar","196712",16743930,"West African CFA franc"
+Singapore,SGP,"East Asia & Pacific","Singapore","697",5850342,"Singapore dollar"
+Solomon Islands,SLB,"East Asia & Pacific","Honiara","28896",682500,"Solomon Islands dollar"
+Sierra Leone,SLE,"Sub-Saharan Africa","Freetown","71740",7976985,"Sierra Leonean leone"
+El Salvador,SLV,"Latin America & Caribbean","San Salvador","21041",6486205,"US dollar"
+San Marino,SMR,"Europe & Central Asia","San Marino","61",33938,"Euro"
+Somalia,SOM,"Sub-Saharan Africa","Mogadishu","637657",15893219,"Somali shilling"
+Serbia,SRB,"Europe & Central Asia","Belgrade","77474",8737371,"Serbian dinar"
+Sub-Saharan Africa (excluding high income),,"Sub-Saharan Africa",,,,
+South Sudan,SSD,"Sub-Saharan Africa","Juba","644329",11193729,"South Sudanese pound"
+Sub-Saharan Africa,,"Sub-Saharan Africa",,,,
+Small states,,"World",,,,
+Sao Tome and Principe,STP,"Sub-Saharan Africa","São Tomé","1001",219161,"Sao Tomean dobra"
+Suriname,SUR,"Latin America & Caribbean","Paramaribo","163820",586634,"Surinamese dollar"
+Slovak Republic,SVK,"Europe & Central Asia","Bratislava","49035",5459642,"Euro"
+Slovenia,SVN,"Europe & Central Asia","Ljubljana","20273",2078932,"Euro"
+Sweden,SWE,"Europe & Central Asia","Stockholm","450295",10099265,"Swedish krona"
+Eswatini,SWZ,"Sub-Saharan Africa","Mbabane","17364",1160164,"Swazi lilangeni"
+Sint Maarten (Dutch part),SXM,"Latin America & Caribbean",,"34",42388,"Netherlands Antillean guilder"
+Seychelles,SYC,"Sub-Saharan Africa","Victoria","459",98340,"Seychellois rupee"
+Syrian Arab Republic,SYR,"Middle East & North Africa","Damascus","185180",17500658,"Syrian pound"
+Turks and Caicos Islands,TCA,"Latin America & Caribbean","Cockburn Town","948",38191,"US dollar"
+Chad,TCD,"Sub-Saharan Africa","N'Djamena","1284000",16425864,"Central African CFA franc"
+East Asia & Pacific (IDA & IBRD countries),,"East Asia & Pacific",,,,
+Europe & Central Asia (IDA & IBRD countries),,"Europe & Central Asia",,,,
+Togo,TGO,"Sub-Saharan Africa","Lome","56600",8278737,"West African CFA franc"
+Thailand,THA,"East Asia & Pacific","Bangkok","513120",69799978,"Thai baht"
+Tajikistan,TJK,"Europe & Central Asia","Dushanbe","143100",9537645,"Tajikistani somoni"
+Turkmenistan,TKM,"Europe & Central Asia","Ashgabat","488100",6031200,"Turkmen manat"
+Latin America & the Caribbean (IDA & IBRD countries),,"Latin America & Caribbean",,,,
+Timor-Leste,TLS,"East Asia & Pacific","Dili","14874",1318445,"US dollar"
+Middle East & North Africa (IDA & IBRD countries),,"Middle East & North Africa",,,,
+Tonga,TON,"East Asia & Pacific","Nuku'alofa","747",109008,"Tongan pa'anga"
+South Asia (IDA & IBRD),,"South Asia",,,,
+Sub-Saharan Africa (IDA & IBRD countries),,"Sub-Saharan Africa",,,,
+Trinidad and Tobago,TTO,"Latin America & Caribbean","Port of Spain","5155",1394973,"Trinidadian dollar"
+Tunisia,TUN,"Middle East & North Africa","Tunis","163610",11818619,"Tunisian dinar"
+Turkiye,TUR,"Europe & Central Asia","Ankara","783562",84339067,"Turkish lira"
+Tuvalu,TUV,"East Asia & Pacific","Funafuti","26",11792,"Australian dollar"
+Tanzania,TZA,"Sub-Saharan Africa","Dodoma","947303",59734218,"Tanzanian shilling"
+Uganda,UGA,"Sub-Saharan Africa","Kampala","241038",45741007,"Ugandan shilling"
+Ukraine,UKR,"Europe & Central Asia","Kyiv","603500",43733762,"Ukrainian hryvnia"
+Upper middle income,,"World",,,,
+Uruguay,URY,"Latin America & Caribbean","Montevideo","176215",3473730,"Uruguayan peso"
+United States,USA,"North America","Washington D.C.","9833520",332915073,"US dollar"
+Uzbekistan,UZB,"Europe & Central Asia","Tashkent","448978",34232050,"Uzbekistani som"
+St. Vincent and the Grenadines,VCT,"Latin America & Caribbean","Kingstown","389",110947,"East Caribbean dollar"
+Venezuela RB,VEN,"Latin America & Caribbean","Caracas","912050",28435943,"Venezuelan bolivar"
+British Virgin Islands,VGB,"Latin America & Caribbean","Road Town","151",30030,"US dollar"
+Virgin Islands (U.S.),VIR,"Latin America & Caribbean","Charlotte Amalie","347",106235,"US dollar"
+Vietnam,VNM,"East Asia & Pacific","Hanoi","331212",98168829,"Vietnamese dong"
+Vanuatu,VUT,"East Asia & Pacific","Port Vila","12189",314464,"Vanuatu vatu"
+World,,"World",,,,
+Samoa,WSM,"East Asia & Pacific","Apia","2831",200917,"Samoan tala"
+Kosovo,KSV,"Europe & Central Asia",,"10887",1932774,"Euro"
+Yemen Rep.,YEM,"Middle East & North Africa","Sanaa","527968",30490640,"Yemeni rial"
+South Africa,ZAF,"Sub-Saharan Africa","Pretoria","1219090",61475495,"South African rand"
+Zambia,ZMB,"Sub-Saharan Africa","Lusaka","752612",18920657,"Zambian kwacha"
+Zimbabwe,ZWE,"Sub-Saharan Africa","Harare","390757",14899771,"Zimbabwean dollar"

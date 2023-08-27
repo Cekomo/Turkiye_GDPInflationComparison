@@ -11,3 +11,4 @@ Due to file permission issues, it may be required to execute python file in cmd 
 - HDI, life expectancy data taken from UNDP.
 - Literacy data taken from World Bank and poverty rate taken from OECD (possible most recent year extracted).
 - Countries spoken languages data is generated using Chat-GPT.
+- Countries (ISO code, region, capital city, area, population, currency) table is generated using Chat-GPT.
