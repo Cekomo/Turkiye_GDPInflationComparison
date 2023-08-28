@@ -1,5 +1,5 @@
-# WorldBankAnalysis
-Analysis of data in World Bank databases.
+# Turkiye GDP Per Capita - Inflation on Consumer Prices comparison
+I commentated on how Turkiye handled GDP against inflation through the years of 1960 - 2022.  
 
 ## TableManipulator
 This file is to shaping structure of the table such as omitting commas, making text numeric if they consist of numbers etc.
@@ -8,7 +8,4 @@ Due to file permission issues, it may be required to execute python file in cmd 
 
 ## Where did data come from
 - All economics related data is taken from World Bank.
-- HDI, life expectancy data taken from UNDP.
-- Literacy data taken from World Bank and poverty rate taken from OECD (possible most recent year extracted).
-- Countries spoken languages data is generated using Chat-GPT.
-- Countries (ISO code, region, capital city, area, population, currency) table is generated using Chat-GPT.
+- Countries table's ISO code, region, capital city part is generated using Chat-GPT. Area, population, currency data are taken from World Bank database. 
